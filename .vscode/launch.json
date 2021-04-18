@@ -2,14 +2,20 @@
     
     
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyClass",
+            "request": "launch",
+            "mainClass": "lc.MyClass",
+            "projectName": "Myjava_37aea8c0"
+        },
         {
             "type": "java",
             "name": "CodeLens (Launch) - MyClass",
             "request": "launch",
             "mainClass": "MyClass",
             "projectName": "Myjava_37aea8c0",
-            "console" : "integratedTerminal"
+            "console": "integratedTerminal"
         }
     ]
 }
